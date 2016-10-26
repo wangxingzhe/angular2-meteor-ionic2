@@ -1,0 +1,13 @@
+// global variables, including overrides to ionic default
+// ionic
+@import 'imports/ionic-loader';
+
+// font-awesome
+@import "{}/node_modules/font-awesome/scss/font-awesome";
+
+// all directives
+@import 'imports/widgets/widgets';
+
+// all views
+@import "imports/views/views";
+

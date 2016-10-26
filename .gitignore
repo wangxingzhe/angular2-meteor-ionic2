@@ -7,8 +7,8 @@
 #npm
 node_modules/
 
-# package npm
-packages/*/.npm
-
 #typings
 typings/
+
+#font
+public/fonts
