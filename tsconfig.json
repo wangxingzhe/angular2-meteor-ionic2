@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es6", "dom"],
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "baseUrl": "."
+  },
+  "exclude": [
+    "node_modules",
+    ".meteor"
+  ],
+  "compileOnSave": false,
+  "buildOnSave": false
+}
