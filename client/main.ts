@@ -6,7 +6,7 @@ import {FormsModule} from "@angular/forms";
 import {BrowserModule} from '@angular/platform-browser';
 import {IonicApp, IonicModule} from 'ionic-angular';
 
-import Pipes from './imports/pipes';
+import Pipes from './imports/pipes/pipes';
 import Widgets from './imports/widgets/widgets';
 import Views from './imports/views/views';
 

@@ -1,5 +1,5 @@
 'use strict';
 
-const Widgets = [];
+const Widgets: Array<any> = [];
 
 export default Widgets;
