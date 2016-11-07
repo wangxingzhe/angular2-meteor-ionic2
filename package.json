@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "start": "meteor run",
-    "prepare": "cp -R ./node_modules/ionicons/dist/fonts ./public;cp -R ./node_modules/font-awesome/fonts ./public;meteor typings i;"
+    "prepare": "cp -R ./node_modules/ionicons/dist/fonts ./public;cp -R ./node_modules/font-awesome/fonts ./public;"
   },
   "dependencies": {
     "@angular/common": "2.1.1",

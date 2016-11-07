@@ -9,3 +9,6 @@ construct a platform by meteor &amp; angular2 &amp; ionic2
 5. install other files: `meteor npm run prepare`
 6. start server: `meteor`
 7. open in browser: `localhost:3000`
+
+# mirror
+1. npm taobao: `npm config set registry https://registry.npm.taobao.org`
